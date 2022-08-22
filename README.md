@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=fmir864&show_icons=true&theme=github_dark&count_private=true" width="400">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fmir864&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&layout=compact" alt="GitHub Stats for FM Irshad" width="700">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=fmir864&theme=github_dark" width="700">
