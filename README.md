@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi there, I'm Irshad.
+<!-- <img src="wave.gif" width="24px"> -->
 
 <!--
 **fmir864/fmir864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=fmir864&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&layout=compact" alt="GitHub Stats for FM Irshad" width="500">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=fmir864&theme=github-dark" width="500">
-
-![Irshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmir864&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&layout=compact)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fmir864&theme=github-dark)](https://git.io/streak-stats)
+<a href="https://github.com/fmir864">
+  <img height="180em" alt="Irshad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fmir864&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&layout=compact" />
+  <img height="180em" alt="Irshad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmir864&layout=compact&theme=github_dark" />
+  <img height="180em" alt="Irshad's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=fmir864&theme=github-dark&border=white" />
+</a>
